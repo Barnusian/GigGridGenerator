@@ -32,14 +32,8 @@ GigGrid Generator is a small tool to help you quickly take a CSV of gigs and gen
 3. The app will:  
    - Copy the formatted event info to your clipboard.  
    - Write out an HTML file containing the events, including images and links.  
-4. Use the clipboard contents for emails, social media posts, or internal documents.  
-5. Use the HTML file to embed events on your website easily.
-
-## How it Works
-
-1. **Load your CSV file**: The app reads your CSV and displays the gig information in a grid.
-2. **Copy to clipboard**: Once processed, the HTML is automatically copied to your clipboard so you can paste it anywhere.
-3. **Save HTML file**: An HTML file is also written to disk for reference or further editing.
+4. Paste the clipboard contents directly into email templates.  
+5. The HTML is also written out to a document and can be used at a later date.
 
 ---
 
