@@ -6,16 +6,20 @@ GigGrid Generator is a small tool to help you quickly take a CSV of gigs and gen
 
 ---
 
+### Webapp
+
+The webapp is the best way to generate your HTML. Visit [gladgrid.streamlit.app](https://gladgrid.streamlit.app/) to get started.
+
 ## 🖥 Running the App
 
-### Mac
+### ~~Mac~~ Version deprecated.
 
-- Download and unzip the folder inside `dist/MacOS/`.  
-- Double-click the `.app` to launch.  
+- ~~Download and unzip the folder inside `dist/MacOS/`.~~
+- ~~Double-click the `.app` to launch.~~
 
-**Note:** macOS may warn that the app is from an “unidentified developer.” You can bypass this by:  
+**~~Note:~~** ~~macOS may warn that the app is from an “unidentified developer.” You can bypass this by:~~
 
-- Right-clicking the app → Open → Open again when prompted.
+- ~~Right-clicking the app → Open → Open again when prompted.~~
 
 ### Windows
 
